@@ -11,7 +11,7 @@
   
   Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
   <p align="left">
-<a href="https://www.linkedin.com/in/arpit-rangi-37957428b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neerugangarh" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/arpit-rangi-37957428b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit-rangi-37957428b" height="40" width="50" /></a>
 </p>
        
            
@@ -20,7 +20,7 @@
   <br><br>
   ✨My journey is fueled by a passion for Software development and a commitment to learn Data Structures and Algorithms (DSA) 📊.
   <br><br>
-  📅 I love sharing daily insights on DSA, documenting my learning journey and discoveries. You're invited to join me on <a href="https://www.linkedin.com/in/neerugangarh" target="new"> LinkedIn</a> for this exciting path of exploration and growth!
+  📅 I love sharing daily insights on DSA, documenting my learning journey and discoveries. You're invited to join me on <a href="https://www.linkedin.com/in/arpit-rangi-37957428b" target="new"> LinkedIn</a> for this exciting path of exploration and growth!
   <br><br>
   📩 Get in touch: 
       <a href="mailto:contact@arpitrangi.in">contact@arpitrangi.in</a>
@@ -28,7 +28,7 @@
   <h2>🛠️Skills</h2>
   <p>
     <a href="https://skillicons.dev">
-      <img margin="8px" src="https://skillicons.dev/icons?i=java,dart,python,c,js" />
+      <img margin="8px" src="https://skillicons.dev/icons?i=firebase,androidstudio,flutter,cloudflare,arch,ubuntu,nginx,django,flask,mysql,linux,java,dart,python,postman,redis,vim,gradle" />
     </a>
   </p>
   <br>
