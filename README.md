@@ -28,7 +28,7 @@
   <h2>🛠️Skills</h2>
   <p>
     <a href="https://skillicons.dev">
-      <img margin="8px" src="https://skillicons.dev/icons?i=html,css,js,cpp" />
+      <img margin="8px" src="https://skillicons.dev/icons?i=java,dart,python,c,js" />
     </a>
   </p>
   <br>
